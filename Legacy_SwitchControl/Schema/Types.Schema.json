@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "definitions": {
+    "TcHmi.Controls.Legacy_Switch.Legacy_SwitchControl": {
+      "type": "object",
+      "frameworkInstanceOf": "TcHmi.Controls.System.TcHmiControl",
+      "frameworkControlType": "Legacy_SwitchControl",
+      "frameworkControlNamespace": "TcHmi.Controls.Legacy_Switch"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+﻿{
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "definitions": {
+    "TcHmi.Controls.Legacy_Switch.Legacy_SwitchFlavour": {
+      "$schema": "http://json-schema.org/draft-04/schema",
+      "title": "SwitchFlavour",
+      "type": "string",
+      "enum": [
+        "Dip",
+        "Power",
+        "Rocker",
+        "Rotary",
+        "Push"
+      ],
+      "default": "Dip"
+    }
+  }
+}
