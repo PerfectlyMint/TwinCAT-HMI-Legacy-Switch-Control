@@ -2,14 +2,15 @@
 <package>
   <metadata>
     <id>Legacy_Switch</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>An example code for TwinCAT HMI Framework extension. Produces the good ol' visualization switch control by extending the original TcHmi ToggleButton.</description>
     <title>Legacy Switch</title>
     <authors>Perfectly Mint</authors>
     <owners>Perfectly Mint</owners>
     <projectUrl>https://github.com/PerfectlyMint/TwinCAT-HMI-Legacy-Switch-Control</projectUrl>
-    <releaseNotes>Initial release.</releaseNotes>
+    <releaseNotes>Logo Fix.</releaseNotes>
     <copyright>Copyright 2020</copyright>
+    <icon>images/logo.png</icon>
     <tags>TwinCAT HMI</tags>
     <dependencies>
       <group targetFramework="native1.12-tchmi">
